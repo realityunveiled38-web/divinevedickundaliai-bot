@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+requests
+python-dotenv
+httpx
+pydantic
+firebase-admin
+razorpay
+twilio
+loguru
+pyyaml
+cryptography<44
